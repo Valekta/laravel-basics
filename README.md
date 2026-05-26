@@ -5,7 +5,7 @@
 docker-compose up -d
 ```
 ```bash
-docker exec -it dienstplan-app-backend_laravel.test_1 bash
+docker exec -it laravel-basics_laravel.test_1 bash
 ```
 
 ```bash
